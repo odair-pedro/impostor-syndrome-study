@@ -1,7 +1,7 @@
 # impostor-syndrome-study
 A study about impostor syndrome and self-efficacy using python and data science
 
-## Installing Jupythe
+## Installing Jupyter
 
 ```shell
 pip install jupyterlab

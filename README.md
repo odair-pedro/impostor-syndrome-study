@@ -18,5 +18,5 @@ pip install sklearn
 
 ## See more
 
-- [Normalizing dataset (Pré-processing data)](./notebooks/normalize_data.ipynb)
+- [Normalizing dataset (Pre-processing data)](./notebooks/normalize_data.ipynb)
 - [Finding correlations](./notebooks/finding_correlations.ipynb)

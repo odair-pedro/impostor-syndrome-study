@@ -7,7 +7,7 @@ A study about impostor syndrome and self-efficacy using python and data science
 pip install jupyterlab
 ```
 
-## Instalings notebooks dependencies
+## Instalings dependencies
 
 ```shell
 pip install pandas
@@ -15,3 +15,8 @@ pip install openpyxl
 pip install seaborn
 pip install sklearn
 ```
+
+## See more
+
+- [Normalizing dataset (Pré-processing data)](./notebooks/normalize_data.ipynb)
+- [Finding correlations](./notebooks/finding_correlations.ipynb)
